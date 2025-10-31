@@ -4,7 +4,6 @@ from src.DiamondPricePrediction.components.data_ingestion import DataIngestion
 from src.DiamondPricePrediction.components.data_transformation import DataTransformation
 
 from src.DiamondPricePrediction.components.model_trainer import ModelTrainer
-
 #from src.DiamondPricePrediction.components.model_evaluation import ModelEvaluation
 
 
